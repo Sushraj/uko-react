@@ -66,5 +66,17 @@
     "@types/nprogress": "^0.2.0",
     "@types/react-table": "^7.7.2",
     "prettier": "^2.4.1"
-  }
+  },
+  "description": "<h1><a href=\"https://ui-lib.com/downloads/uko-lite-react-dashboard/\">Uko React Admin Dashboard Template</a></h1>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suthicha-step/uko-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suthicha-step/uko-react/issues"
+  },
+  "homepage": "https://github.com/suthicha-step/uko-react#readme"
 }
